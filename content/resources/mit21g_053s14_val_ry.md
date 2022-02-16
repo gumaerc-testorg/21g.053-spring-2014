@@ -2,8 +2,13 @@
 content_type: resource
 description: "This resource contains the information regarding val\xE9ry giscard d\u2019\
   Estaing, speech at verdun sur le doubs, january 27, 1978."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-053-understanding-contemporary-french-politics-spring-2014/e5e320c98b47c651b67081c2f2f80f15_MIT21G_053S14_Val_ry.pdf
+file: /media/courses/21g-053-understanding-contemporary-french-politics-spring-2014/e5e320c98b47c651b67081c2f2f80f15_MIT21G_053S14_Val_ry.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: "Val\xE9ry Giscard D\u2019Estaing, Speech at Verdun sur le Doubs, January 27,\
   \ 1978"

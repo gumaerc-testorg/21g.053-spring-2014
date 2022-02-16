@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: f4c5398d-382b-169d-d42b-2dd5ce8b711c
 ---
@@ -42,20 +44,6 @@ HASS Social Sciences CI-M ![](/images/educator/icon-question-cim.png)
 ### Offered
 
 Taught during the spring semester, this course is not offered regularly.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![21G-053_classroom-1.jpg]({{< resource_file 5898ff08-d65b-336d-1563-f13df7e461e5 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Flat classroom with a capacity of 25, included modern tablet arm chairs, computer, monitor, LCD projector, screen, wireless network. (Image courtesy of Shannon Larkin.)
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
