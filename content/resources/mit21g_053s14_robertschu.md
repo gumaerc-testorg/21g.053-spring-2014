@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: ed1f4495-24b5-197e-fd53-d3c2ca4d9bfe
 resourcetype: Document
 title: Robert Schuman, Declaration on the ECSC (1950)
 uid: 60540ded-819a-704a-5648-bb96146304f4

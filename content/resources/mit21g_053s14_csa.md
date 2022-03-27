@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: ed1f4495-24b5-197e-fd53-d3c2ca4d9bfe
 resourcetype: Document
 title: CSA, Deliberation relative to the evaluation of the respect of political pluralism
   in the media (February 8, 2000)

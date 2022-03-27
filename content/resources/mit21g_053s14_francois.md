@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: ed1f4495-24b5-197e-fd53-d3c2ca4d9bfe
 resourcetype: Document
 title: "Fran\xE7ois Mitterrand's Speech at Epinay (1971)"
 uid: 9d18a805-30fa-df71-6057-d0fd0cda048d

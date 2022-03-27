@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: ed1f4495-24b5-197e-fd53-d3c2ca4d9bfe
 resourcetype: Document
 title: Constitutional Council Freedom of Association Decision (1971)
 uid: 001b66ea-d3ed-d66c-68d5-0cc6807abf7a

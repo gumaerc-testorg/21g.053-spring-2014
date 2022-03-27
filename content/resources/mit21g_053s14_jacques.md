@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: ed1f4495-24b5-197e-fd53-d3c2ca4d9bfe
 resourcetype: Document
 title: Jacques Chirac, Appel de Cochin / "Cochin Appeal" (December 6, 1978)
 uid: 74bba6bc-ba78-ef3b-2e84-b66b13339515
