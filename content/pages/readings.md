@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a list of the required readings, screenings, and
+  topics covered in each class session. It also contains selected PDFs of readings
+  where possible or links out to online resources.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -60,7 +63,7 @@ Introduction. The Algerian War
 
 ### Reading:
 
-Malraux, André. [_Speech on the Transfer of Jean Moulin's ashes to the Panthéon_ (PDF)]({{< baseurl >}}/resources/mit21g_053s14_andre), 1964.
+Malraux, André. {{% resource_link 8c6640e3-23c0-27c7-517d-0869502d85ba "_Speech on the Transfer of Jean Moulin's ashes to the Panthéon_ (PDF)" %}}, 1964.
 
 
 {{< tdclose >}}
@@ -81,7 +84,7 @@ The Imperial Presidency
 Charles de Gaulle, _Discourse at Bayeux_ (1946) Translation in  
 Cogan, Charles G. _Charles de Gaulle: A Brief Biography with Documents_. Bedford / Saint Martin's, 1995, pp. 183–5. ISBN: 9780312107901.
 
-Debré, Michel. [_Speech to the Council of State_ (PDF)]({{< baseurl >}}/resources/mit21g_053s14_michel), 1958.
+Debré, Michel. {{% resource_link 2cfd5da6-f36d-a736-17b4-5106999f01ba "_Speech to the Council of State_ (PDF)" %}}, 1958.
 
 ### Facts:
 
@@ -103,7 +106,7 @@ May 1968: A Moral Revolution?
 
 Ross, Kristen. "The Police Conception of History." Chapter 1 in _May '68 and Its Afterlives_. University of Chicago Press, 2004, pp. 19–25. ISBN: 9780226727998. \[Preview with [Google Books](http://books.google.com/books?id=qCy74PBgsPIC&pg=PA19=onepage)\]
 
-Constitutional Council. [_Freedom of Association Decision_ (PDF)]({{< baseurl >}}/resources/mit21g_053s14_constitu), 1971.
+Constitutional Council. {{% resource_link 001b66ea-d3ed-d66c-68d5-0cc6807abf7a "_Freedom of Association Decision_ (PDF)" %}}, 1971.
 
 ### Facts:
 
@@ -145,9 +148,9 @@ The Socialist Era
 
 ### Readings:
 
-Mitterrand, François. [_Speech at Epinay_ (PDF)]({{< baseurl >}}/resources/mit21g_053s14_francois), 1971.
+Mitterrand, François. {{% resource_link 9d18a805-30fa-df71-6057-d0fd0cda048d "_Speech at Epinay_ (PDF)" %}}, 1971.
 
-CSA. [_Deliberation Relative to the Evaluation of the Respect of Political Pluralism in the Media_ (PDF)]({{< baseurl >}}/resources/mit21g_053s14_csa), 2000.
+CSA. {{% resource_link 10f2ad52-fdfc-1fb3-74c1-b43b7431e83a "_Deliberation Relative to the Evaluation of the Respect of Political Pluralism in the Media_ (PDF)" %}}, 2000.
 
 ### Facts:
 
@@ -167,7 +170,7 @@ The Liberal Turning Point and the Cohabitation
 
 ### Readings:
 
-D'Estaing, Valéry Giscard. [_Speech at Verdun sur le Doubs_ (PDF)]({{< baseurl >}}/resources/mit21g_053s14_val_ry), 1978.
+D'Estaing, Valéry Giscard. {{% resource_link e5e320c9-8b47-c651-b670-81c2f2f80f15 "_Speech at Verdun sur le Doubs_ (PDF)" %}}, 1978.
 
 Smith, Timothy. "The Misunderstood French Welfare State." Chapter 1 in _France in Crisis: Welfare, Inequality, and Globalization since 1980_. Cambridge University Press, 2004, pp. 1–15. ISBN: 9780521605205. \[Preview with [Google Books](http://books.google.com/books?id=2XHfgEOhP3wC&pg=PA1=onepage)\]
 
@@ -211,9 +214,9 @@ European Doubts
 
 ### Readings:
 
-Schuman, Robert. [_Declaration on the ECSC_ (PDF)]({{< baseurl >}}/resources/mit21g_053s14_robertschu), 1950.
+Schuman, Robert. {{% resource_link 60540ded-819a-704a-5648-bb96146304f4 "_Declaration on the ECSC_ (PDF)" %}}, 1950.
 
-Chirac, Jacques. [_Cochin Appeal_ (PDF)]({{< baseurl >}}/resources/mit21g_053s14_jacques), 1978.
+Chirac, Jacques. {{% resource_link 74bba6bc-ba78-ef3b-2e84-b66b13339515 "_Cochin Appeal_ (PDF)" %}}, 1978.
 
 France and the Euro. "[The Time-Bomb at the Heart of Europe. Why France could become the Biggest Danger to Europe's Single Currency](http://www.economist.com/news/leaders/21566640-why-france-could-become-biggest-danger-europes-single-currency-time-bomb-heart)." _The Economist_, November, 2012.
 
