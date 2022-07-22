@@ -6,6 +6,7 @@ file: /courses/21g-053-understanding-contemporary-french-politics-spring-2014/00
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Constitutional Council Freedom of Association Decision (1971)
 uid: 001b66ea-d3ed-d66c-68d5-0cc6807abf7a
 ---
 This resource contains the information regarding constitutional council freedom of association decision (1971).
-

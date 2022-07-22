@@ -6,6 +6,7 @@ file: /courses/21g-053-understanding-contemporary-french-politics-spring-2014/e5
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "Val\xE9ry Giscard D\u2019Estaing, Speech at Verdun sur le Doubs, January
 uid: e5e320c9-8b47-c651-b670-81c2f2f80f15
 ---
 This resource contains the information regarding valéry giscard d’Estaing, speech at verdun sur le doubs, january 27, 1978.
-

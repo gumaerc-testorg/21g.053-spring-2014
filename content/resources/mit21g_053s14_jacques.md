@@ -6,6 +6,7 @@ file: /courses/21g-053-understanding-contemporary-french-politics-spring-2014/74
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Jacques Chirac, Appel de Cochin / "Cochin Appeal" (December 6, 1978)
 uid: 74bba6bc-ba78-ef3b-2e84-b66b13339515
 ---
 This resource contains the information regarding Jacques chirac, appel de Cochin / "cochin appeal" (december 6, 1978).
-

@@ -7,6 +7,7 @@ file: /courses/21g-053-understanding-contemporary-french-politics-spring-2014/10
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: CSA, Deliberation relative to the evaluation of the respect of political 
 uid: 10f2ad52-fdfc-1fb3-74c1-b43b7431e83a
 ---
 This resource contains the information regarding CSA, deliberation relative to the evaluation of the respect of political pluralism in the media (february 8, 2000).
-
