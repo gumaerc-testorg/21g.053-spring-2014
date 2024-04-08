@@ -59,7 +59,7 @@ Introduction. The Algerian War
 
 ### Screening:
 
-[_The Battle of Algiers_](http://www.imdb.com/title/tt0058946/). Directed by Gillo Pontecorvo. Black and White, 121 min, 1966.
+{{% resource_link "991a68da-4a73-440e-be7f-9f851c290b85" "_The Battle of Algiers_" %}}. Directed by Gillo Pontecorvo. Black and White, 121 min, 1966.
 
 ### Reading:
 
@@ -104,7 +104,7 @@ May 1968: A Moral Revolution?
 
 ### Readings:
 
-Ross, Kristen. "The Police Conception of History." Chapter 1 in _May '68 and Its Afterlives_. University of Chicago Press, 2004, pp. 19–25. ISBN: 9780226727998. \[Preview with [Google Books](http://books.google.com/books?id=qCy74PBgsPIC&pg=PA19=onepage)\]
+Ross, Kristen. "The Police Conception of History." Chapter 1 in _May '68 and Its Afterlives_. University of Chicago Press, 2004, pp. 19–25. ISBN: 9780226727998. \[Preview with {{% resource_link "0fcbbd1d-8b08-4e36-ada3-507fad694bca" "Google Books" %}}\]
 
 Constitutional Council. {{% resource_link 001b66ea-d3ed-d66c-68d5-0cc6807abf7a "_Freedom of Association Decision_ (PDF)" %}}, 1971.
 
@@ -132,7 +132,7 @@ A New Generation
 
 ### Screening:
 
-[_Going Places_](http://www.imdb.com/title/tt0072353/). Directed by Bertrand Blier. Color, 150 min, 1974.
+{{% resource_link "97949e21-962b-42ee-88f2-2c2577f51f3a" "_Going Places_" %}}. Directed by Bertrand Blier. Color, 150 min, 1974.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +172,7 @@ The Liberal Turning Point and the Cohabitation
 
 D'Estaing, Valéry Giscard. {{% resource_link e5e320c9-8b47-c651-b670-81c2f2f80f15 "_Speech at Verdun sur le Doubs_ (PDF)" %}}, 1978.
 
-Smith, Timothy. "The Misunderstood French Welfare State." Chapter 1 in _France in Crisis: Welfare, Inequality, and Globalization since 1980_. Cambridge University Press, 2004, pp. 1–15. ISBN: 9780521605205. \[Preview with [Google Books](http://books.google.com/books?id=2XHfgEOhP3wC&pg=PA1=onepage)\]
+Smith, Timothy. "The Misunderstood French Welfare State." Chapter 1 in _France in Crisis: Welfare, Inequality, and Globalization since 1980_. Cambridge University Press, 2004, pp. 1–15. ISBN: 9780521605205. \[Preview with {{% resource_link "6ce51d68-3369-42c4-9b2e-a411dbc556fd" "Google Books" %}}\]
 
 ### Facts:
 
@@ -198,7 +198,7 @@ Revisiting France's Past
 
 ### Screening:
 
-[_The Last Mitterrand_](http://www.imdb.com/title/tt0364301/?ref_=fn_al_tt_1). Directed by Robert Guédiguian. Color, 116 min, 2005.
+{{% resource_link "3a7f96f5-e9b2-46fb-be21-bb8115b78cec" "_The Last Mitterrand_" %}}. Directed by Robert Guédiguian. Color, 116 min, 2005.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -218,7 +218,7 @@ Schuman, Robert. {{% resource_link 60540ded-819a-704a-5648-bb96146304f4 "_Declar
 
 Chirac, Jacques. {{% resource_link 74bba6bc-ba78-ef3b-2e84-b66b13339515 "_Cochin Appeal_ (PDF)" %}}, 1978.
 
-France and the Euro. "[The Time-Bomb at the Heart of Europe. Why France could become the Biggest Danger to Europe's Single Currency](http://www.economist.com/news/leaders/21566640-why-france-could-become-biggest-danger-europes-single-currency-time-bomb-heart)." _The Economist_, November, 2012.
+France and the Euro. "{{% resource_link "4ab32a17-123e-4abf-b11d-3aa4c9ea1a94" "The Time-Bomb at the Heart of Europe. Why France could become the Biggest Danger to Europe's Single Currency" %}}." _The Economist_, November, 2012.
 
 
 {{< tdclose >}}
@@ -236,7 +236,7 @@ Identities and the Nation
 
 ### Reading:
 
-Scott, Joan W. "Sexuality." Chapter 5 in _The Politics of the Veil_. Princeton University Press, 2007, pp. 151–74. ISBN: 9780691125435. \[Preview with [Google Books](http://books.google.com/books?id=YD74-yqAp-cC&pg=PA151=onepage)\]
+Scott, Joan W. "Sexuality." Chapter 5 in _The Politics of the Veil_. Princeton University Press, 2007, pp. 151–74. ISBN: 9780691125435. \[Preview with {{% resource_link "89d5e2d9-bdf5-4e12-a96a-65bddb1fe83b" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -258,7 +258,7 @@ A New Political System?
 
 ### Screening:
 
-[_The Conquest_](http://www.imdb.com/title/tt1711484/?ref_=fn_al_tt_1). Directed by Xavier Durringer. Color, 105 min, 2011.
+{{% resource_link "75dac272-b410-4ae0-937b-fb06d84b3e35" "_The Conquest_" %}}. Directed by Xavier Durringer. Color, 105 min, 2011.
 {{< tdclose >}}
 
 {{< trclose >}}
