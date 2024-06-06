@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21g-053-understanding-contemporary-french-politics-spring-2014/5898ff08d65b336d1563f13df7e461e5_21G-053_classroom-1.jpg
+file_size: 39864
 file_type: image/jpeg
 image_metadata:
   caption: ''
