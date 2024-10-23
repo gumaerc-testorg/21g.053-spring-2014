@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the information regarding CSA, deliberation relative
   to the evaluation of the respect of political pluralism in the media (february 8,
   2000).
-file: /courses/21g-053-understanding-contemporary-french-politics-spring-2014/10f2ad52fdfc1fb374c1b43b7431e83a_MIT21G_053S14_CSA.pdf
+file: /ol-ocw-studio-app/courses/21g-053-understanding-contemporary-french-politics-spring-2014/10f2ad52fdfc1fb374c1b43b7431e83a_MIT21G_053S14_CSA.pdf
 file_size: 137061
 file_type: application/pdf
 learning_resource_types:
