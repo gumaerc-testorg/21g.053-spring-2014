@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding michel debr\xE9's speech\
   \ to the council of state (august 27, 1958)."
-file: /ol-ocw-studio-app/courses/21g-053-understanding-contemporary-french-politics-spring-2014/2cfd5da6f36da73617b45106999f01ba_MIT21G_053S14_Michel.pdf
+file: /courses/21g-053-understanding-contemporary-french-politics-spring-2014/2cfd5da6f36da73617b45106999f01ba_MIT21G_053S14_Michel.pdf
 file_size: 97103
 file_type: application/pdf
 learning_resource_types:
