@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding andr\xE9 malraux, speech\
   \ on the transfer of Jean moulin's ashes to the panth\xE9on (1964)."
-file: /ol-ocw-studio-app/courses/21g-053-understanding-contemporary-french-politics-spring-2014/8c6640e323c027c7517d0869502d85ba_MIT21G_053S14_Andre.pdf
+file: /courses/21g-053-understanding-contemporary-french-politics-spring-2014/8c6640e323c027c7517d0869502d85ba_MIT21G_053S14_Andre.pdf
 file_size: 166896
 file_type: application/pdf
 learning_resource_types:
